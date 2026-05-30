@@ -1,0 +1,57 @@
+Sathi AI
+
+Sathi AI is a voice-first AI assistant designed for visually impaired, elderly, and low-literacy users. The platform helps users manage daily life through voice guidance, medication reminders, navigation assistance, and emergency support.
+
+---
+
+Inspiration
+
+The idea was inspired during a night of severe load shedding caused by bad weather. While moving in complete darkness, I kept bumping into objects and realized how difficult and painful simple movement becomes without visibility. That experience made me think about people who face similar challenges every day due to blindness, aging, memory loss, or low digital literacy.
+
+---
+
+The Problem
+
+Millions of people struggle to use modern digital tools because most applications are designed for literate and tech-savvy users. Elderly individuals, visually impaired users, and low-literacy communities often face difficulties with:
+
+- Remembering medication schedules
+- Navigating unfamiliar places
+- Accessing emergency help
+- Using complex smartphone interfaces
+
+---
+
+Features
+
+- Voice-based interaction
+- Medication reminders
+- Navigation assistance
+- Emergency SOS alerts
+- Simple accessibility-focused interface
+- Local language support (planned)
+
+---
+
+Tech Stack
+
+- Python
+- AI Voice Assistance
+- Speech Recognition
+- Text-to-Speech
+- Mobile/Web Integration (planned)
+
+---
+
+Future Plans
+
+- Bengali multilingual support
+- Offline accessibility mode
+- Education assistance features
+- Caregiver connectivity
+- Smart health monitoring
+
+---
+
+Vision
+
+Sathi AI aims to make technology accessible for vulnerable communities by creating a simple, voice-first digital companion that supports independence, safety, and daily wellbeing.
